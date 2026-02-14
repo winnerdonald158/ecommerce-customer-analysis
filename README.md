@@ -26,7 +26,7 @@ README.md             # Project documentation
 
      Customer Insights
 - Customer Base: 49,673 unique customers
-- Demographics: Customers over 50 represent 36% of the base with highest average spending ($14128.118lifetime value)
+- Demographics: Customers over 50 represent 36% of the base with highest average transaction value ($2,808)
 - Churn Rate: 27.3% (13,584 inactive customers since 2023)
 
      Behavioral Patterns
