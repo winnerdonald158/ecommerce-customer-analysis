@@ -37,11 +37,11 @@ README.md             # Project documentation
 📈 Dashboard Preview
 
 Sales Performance Overview
-[Sales Dashboard](dashboard/sales-performance-overview.png)
+[Sales Dashboard](Dashboardi.png)
 Sales-performance-overview.png tracks revenue trends, product category performance, customer age distribution, and payment method preferences with interactive filtering by year and product category.
 
  Customer Analytics
-[Customer Dashboard](dashboard/customer-analytics.png)
+[Customer Dashboard](Dashboardii.png)
 Customer-analytics.png deep-dive into customer segmentation, VIP analysis, churn risk identification, and gender-based purchasing patterns to inform retention and marketing strategies.
 
 🔍 Technical Approach
